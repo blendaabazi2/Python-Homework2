@@ -1,0 +1,58 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Blenda"
+        },
+        {
+            "id": 2,
+            "name": "Belita"
+        },
+        {
+            "id": 3,
+            "name": "Diar"
+        }
+    ],
+    "courses": [
+        {
+            "code": "CS101",
+            "title": "Intro to CS"
+        },
+        {
+            "code": "ALGO101",
+            "title": "Algorithm"
+        }
+    ],
+    "enrollments": [
+        {
+            "student_id": 1,
+            "course_code": "CS101",
+            "grades": [
+                90,
+                80
+            ]
+        },
+        {
+            "student_id": 1,
+            "course_code": "ALGO101",
+            "grades": [
+                85
+            ]
+        },
+        {
+            "student_id": 2,
+            "course_code": "CS101",
+            "grades": [
+                70,
+                75
+            ]
+        },
+        {
+            "student_id": 3,
+            "course_code": "ALGO101",
+            "grades": [
+                95
+            ]
+        }
+    ]
+}
